@@ -1,5 +1,5 @@
 # Wandol, Embracing the K8s
-: Home server built with Kubernetes, for deploying various services stably, using complete CI/CD pipeline, and petting.
+: Home server entirely built with Kubernetes, in order to deploy various services stably, use complete CI/CD pipeline, and pet.
 
 <img width="300" alt="Selfie of wandol" src="https://github.com/synoti21/wandol-embracing-the-k8s/assets/58936172/4f7ac1e4-768c-48a5-a4c9-22f85597796e">
 
