@@ -56,6 +56,17 @@ Handsome, isn't it?
 </div>
 </details>
 
+</div>
+</details>
+
+<details>
+<summary>Jenkins</summary>
+<div markdown="1">
+
+<img width="1333" alt="Jenkins" src="https://github.com/synoti21/wandol-embracing-the-k8s/assets/58936172/ff31625b-0171-402f-8c75-52216d4204a5">
+</div>
+</details>
+
 ---
 ## Currently Deploying
 - [baekjoon-discord-bot](https://github.com/boaz-baekjoon/baekjoon-discord-bot)
