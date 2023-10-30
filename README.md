@@ -26,6 +26,14 @@ Handsome, isn't it?
 </div>
 </details>
 
+<details>
+<summary>Istio (with Kiali)</summary>
+<div markdown="1">
+<img width="1076" alt="istio" src="https://github.com/synoti21/wandol-embracing-the-k8s/assets/58936172/0b0631c0-97b8-4629-a0c9-3fa9746cd805">
+
+</div>
+</details>
+
 ---
 ## Currently Deploying
 - [baekjoon-discord-bot](https://github.com/boaz-baekjoon/baekjoon-discord-bot)
