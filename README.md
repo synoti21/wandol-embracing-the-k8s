@@ -1,7 +1,7 @@
 # Wandol, Embracing the K8s
 : Home server built with Kubernetes, for deploying various services stably, using complete CI/CD pipeline, and petting.
 
-<img width="300" alt="Selfie of wandol" src="https://github.com/synoti21/wandol-embracing-the-k8s/assets/58936172/5abf6ac2-5d35-4c3d-a16d-ccdaf38f47de">
+<img width="300" alt="Selfie of wandol" src="https://github.com/synoti21/wandol-embracing-the-k8s/assets/58936172/4f7ac1e4-768c-48a5-a4c9-22f85597796e">
 
 Handsome, isn't it?
 
@@ -11,7 +11,8 @@ Handsome, isn't it?
 <summary>Grafana & Prometheus</summary>
 <div markdown="1">
 
-<img width="563" alt="Grafana and Prometheus" src="https://github.com/synoti21/wandol-embracing-the-k8s/assets/58936172/a221b1d3-3a7d-42a1-a38e-c91881b899f4">
+<img width="563" alt="Grafana and Prometheus" src="https://github.com/synoti21/wandol-embracing-the-k8s/assets/58936172/db1e297b-24d9-455b-8827-e4f3890e89c5">
+
 
 </div>
 </details>
@@ -19,8 +20,8 @@ Handsome, isn't it?
 <details>
 <summary>Kubernetes Dashboard</summary>
 <div markdown="1">
-  
-<img width="1087" alt="Kubernetes Dashboard" src="https://github.com/synoti21/wandol-embracing-the-k8s/assets/58936172/0194be9a-396d-435e-915e-542a9503d77d">
+
+<img width="1156" alt="Kubernetes Dashboard" src="https://github.com/synoti21/wandol-embracing-the-k8s/assets/58936172/2098f4bc-66fe-4207-9bd8-eebd92b63397">
 
 </div>
 </details>
