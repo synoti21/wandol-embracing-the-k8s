@@ -34,6 +34,17 @@ Handsome, isn't it?
 </div>
 </details>
 
+</div>
+</details>
+
+<details>
+<summary>K9s</summary>
+<div markdown="1">
+<img width="818" alt="k9s" src="https://github.com/synoti21/wandol-embracing-the-k8s/assets/58936172/bc7692b9-32f7-48dc-a71b-b5200c196815">
+
+</div>
+</details>
+
 ---
 ## Currently Deploying
 - [baekjoon-discord-bot](https://github.com/boaz-baekjoon/baekjoon-discord-bot)
