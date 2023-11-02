@@ -44,7 +44,7 @@ Handsome, isn't it?
 <details>
 <summary>Argo CD</summary>
 <div markdown="1">
-<img width="1097" alt="Argo CD" src="https://github.com/synoti21/wandol-embracing-the-k8s/assets/58936172/83011ee2-d10e-4f7b-9d04-a42add310b41">
+<img width="1260" alt="Argo CD" src="https://github.com/synoti21/wandol-embracing-the-k8s/assets/58936172/624cf911-8912-4e2b-83aa-551f3b6eb818">
 
 </div>
 </details>
@@ -63,3 +63,6 @@ Handsome, isn't it?
 ---
 ## Currently Deploying
 - [baekjoon-discord-bot](https://github.com/boaz-baekjoon/baekjoon-discord-bot)
+- [fam'Story](https://github.com/Fam-Story/fam-Story_Backend)
+- Diareat
+
