@@ -8,3 +8,4 @@ kubectl apply -f kube-state-cluster-role.yaml
 kubectl apply -f kube-state-deploy.yaml
 kubectl apply -f kube-state-svcaccount.yaml
 kubectl apply -f kube-state-svc.yaml
+

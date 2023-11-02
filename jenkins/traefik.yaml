@@ -1,0 +1,16 @@
+apiVersion: traefik.containo.us/v1alpha1
+kind: IngressRoute
+metadata:
+  name: jenkins
+  namespace: cicd
+spec:
+  entryPoints:
+    - websecure
+  routes:
+  - match: Host(`build.thisiswandol.com`)
+    kind: Rule
+    services:
+    - name: jenkins-service
+      port: 50000
+  tls:
+    certResolver: myresolver
