@@ -60,6 +60,14 @@ Handsome, isn't it?
 </div>
 </details>
 
+<details>
+<summary>Traefik</summary>
+<div markdown="1">
+<img width="1216" alt="Traefik" src="https://github.com/synoti21/wandol-embracing-the-k8s/assets/58936172/1f56f2dd-c01d-4f7a-8149-e63b43068699">
+
+</div>
+</details>
+
 ---
 ## Currently Deploying
 - [baekjoon-discord-bot](https://github.com/boaz-baekjoon/baekjoon-discord-bot)
