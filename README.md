@@ -44,7 +44,7 @@ Handsome, isn't it?
 <details>
 <summary>Argo CD</summary>
 <div markdown="1">
-<img width="1260" alt="Argo CD" src="https://github.com/synoti21/wandol-embracing-the-k8s/assets/58936172/624cf911-8912-4e2b-83aa-551f3b6eb818">
+<img width="1269" alt="Argo CD" src="https://github.com/synoti21/wandol-embracing-the-k8s/assets/58936172/81b83e0f-bb11-4be9-a7d9-194c9ca97dbf">
 
 </div>
 </details>
