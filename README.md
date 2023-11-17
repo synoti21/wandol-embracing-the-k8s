@@ -72,5 +72,5 @@ Handsome, isn't it?
 ## Currently Deploying
 - [baekjoon-discord-bot](https://github.com/boaz-baekjoon/baekjoon-discord-bot)
 - [fam'Story](https://github.com/Fam-Story/fam-Story_Backend)
-- Diareat
+- [Diareat](https://github.com/CAUSOLDOUTMEN/Diareat_backend)
 
