@@ -1,0 +1,16 @@
+apiVersion: traefik.containo.us/v1alpha1
+kind: IngressRoute
+metadata:
+  name: sonarqube-route
+  namespace: cicd
+spec:
+  entryPoints:
+    - websecure
+  routes:
+    - match: Host(`sonar.thisiswandol.com`)
+      kind: Rule
+      services:
+        - name: sonarqube
+          port: 80
+  tls:
+    certResolver: myresolver
