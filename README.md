@@ -68,6 +68,14 @@ Handsome, isn't it?
 </div>
 </details>
 
+<details>
+<summary>Sonarqube</summary>
+<div markdown="1">
+<img width="1306" alt="Sonarqube" src="https://github.com/synoti21/wandol-embracing-the-k8s/assets/58936172/22d798d6-f2ef-46bb-95bf-55a5de8219df">
+
+</div>
+</details>
+
 ---
 ## Currently Deploying
 - [baekjoon-discord-bot](https://github.com/boaz-baekjoon/baekjoon-discord-bot)
