@@ -1,0 +1,11 @@
+---
+apiVersion: mongodb.com/v1
+kind: MongoDB
+metadata:
+  name: mongodb-replica
+spec:
+  members: 3 
+  version: "4.2.2-ent"
+  type: ReplicaSet
+  persistent: true
+

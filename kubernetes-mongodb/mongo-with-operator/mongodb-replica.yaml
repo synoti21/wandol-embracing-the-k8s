@@ -1,0 +1,39 @@
+---
+apiVersion: mongodbcommunity.mongodb.com/v1
+kind: MongoDBCommunity
+metadata:
+  name: mongodb-pod
+spec:
+  members: 2
+  type: ReplicaSet
+  version: "4.2.7"
+  replicaSetHorizons:
+  - horizon: 192.168.0.10:31181
+  - horizon: 192.168.0.10:31182
+  security:
+    authentication:
+      modes: ["SCRAM"]
+  users:
+    - name: discord_user
+      db: admin
+      passwordSecretRef: # a reference to the secret that will be used to generate the user's password
+        name: my-user-password
+      roles:
+        - name: clusterAdmin
+          db: admin
+        - name: userAdminAnyDatabase
+          db: admin
+      scramCredentialsSecretName: my-scram
+
+
+# the user credentials will be generated from this secret
+# once the credentials are generated, this secret is no longer required
+---
+apiVersion: v1
+kind: Secret
+metadata:
+  name: my-user-password
+type: Opaque
+stringData:
+  password: topgn8415
+
