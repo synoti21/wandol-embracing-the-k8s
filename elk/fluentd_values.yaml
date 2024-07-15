@@ -1,0 +1,16 @@
+config:
+  outputs: |
+    [OUTPUT]
+        Name            es
+        Match           *
+        Host            quickstart-es-http.elastic-stack.svc
+        Port            9200
+        HTTP_User       ${ES_USERNAME}
+        HTTP_Passwd     ${ES_PASSWD}
+        Suppress_Type_Name On
+        Logstash_Format On
+        Replace_Dots    On
+        Buffer_Size     False
+        Retry_Limit     False
+        TLS             On
+        TLS.verify      Off
